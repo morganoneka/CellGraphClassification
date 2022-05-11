@@ -1,0 +1,6 @@
+source,target,weight,type
+CTL,Other,-2.02502879449152,Depletion
+Other,T-reg,-0.954560623136594,Depletion
+APC,T-reg,-0.479920350863698,Depletion
+Other,Other,2.51846708893425,Enrichment
+T-reg,T-reg,0.0701146100414115,Enrichment

@@ -1,0 +1,30 @@
+source,target,weight,type
+CD8+ FoxP3+ PD.L1+ Epithelial+,CD8+ PD.L1+ Tcell+,-4.81915722367497,Depletion
+CD8+ PD.L1+ Epithelial+,FoxP3+ PD.L1+ Treg+ Tcell+,-4.08321336824898,Depletion
+CD8+ PD.L1+ Tcell+,PD.L1+ CD4+ Epithelial+,-3.91552090075196,Depletion
+CD8+ APC+,CD8+ PD.L1+ Epithelial+,-3.24944534108584,Depletion
+CD8+ FoxP3+ PD.L1+ Epithelial+,PD.L1+ CD4+ Tcell+,-2.94807220795614,Depletion
+CD8+ PD.L1+ Epithelial+,CD8+ Tcell+,-2.8094144442359,Depletion
+CD8+ PD.L1+ Epithelial+,PD.L1+ CD4+,-2.4123025315576,Depletion
+CD8+ PD.L1+ Epithelial+,CD8+ PD.L1+ Tcell+,-2.33865479751221,Depletion
+CD8+ PD.L1+ Tcell+,PD.L1+ CD4+ APC+,-2.33246925466895,Depletion
+CD4+ Epithelial+,CD8+ PD.L1+ Tcell+,-2.19534759832222,Depletion
+CD8+ PD.L1+ Epithelial+,PD.L1+ CD4+ Tcell+,-2.17898015972609,Depletion
+PD.L1+ CD4+ Epithelial+,PD.L1+ CD4+ Tcell+,-2.09705468404716,Depletion
+CD8+ FoxP3+ PD.L1+ Epithelial+,CD8+ PD.L1+ APC+,-1.14839183989267,Depletion
+CD4+ APC+,CD8+ PD.L1+ Epithelial+,-1.10265813136374,Depletion
+CD8+ PD.L1+ APC+,CD8+ PD.L1+ Epithelial+,-0.889900860016848,Depletion
+PD.L1+ CD4+ Tcell+,PD.L1+ CD4+ Tcell+,2.01693039594988,Enrichment
+CD8+ PD.L1+ Tcell+,CD8+ Tcell+,1.50007360313464,Enrichment
+CD8+ PD.L1+ Tcell+,CD8+ PD.L1+ Tcell+,1.39903830641016,Enrichment
+CD8+ PD.L1+ Tcell+,FoxP3+ PD.L1+ Treg+ Tcell+,1.24827105316205,Enrichment
+CD8+ PD.L1+ APC+,CD8+ PD.L1+ APC+,1.09157134983121,Enrichment
+CD8+ FoxP3+ PD.L1+ Tcell+,CD8+ PD.L1+ Tcell+,0.931574858989116,Enrichment
+CD4+ Epithelial+,CD8+ PD.L1+ Epithelial+,0.74449233080109,Enrichment
+CD8+ PD.L1+ Epithelial+,CD8+ PD.L1+ Epithelial+,0.735378595454087,Enrichment
+CD8+ PD.L1+ APC+,PD.L1+ CD4+ APC+,0.704050971693471,Enrichment
+CD8+ PD.L1+ Epithelial+,PD.L1+ CD4+ Epithelial+,0.636014015866868,Enrichment
+CD8+ PD.L1+ APC+,PD.L1+ CD4+ Tcell+,0.577072561257388,Enrichment
+CD8+ PD.L1+ Tcell+,PD.L1+ CD4+ Tcell+,0.491356491250657,Enrichment
+CD8+ FoxP3+ PD.L1+ Epithelial+,CD8+ PD.L1+ Epithelial+,0.246716383539121,Enrichment
+CD8+ PD.L1+ APC+,CD8+ PD.L1+ Tcell+,0.235584779074129,Enrichment

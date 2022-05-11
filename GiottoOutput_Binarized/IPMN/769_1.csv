@@ -1,0 +1,4 @@
+source,target,weight,type
+CD8+ PD.L1+ APC+,CD8+ PD.L1+ Epithelial+,-0.317198804413753,Depletion
+CD8+ PD.L1+ Epithelial+,CD8+ PD.L1+ Tcell+,-0.196397212803504,Depletion
+CD8+ PD.L1+ Epithelial+,CD8+ PD.L1+ Epithelial+,0.00265379614700696,Enrichment

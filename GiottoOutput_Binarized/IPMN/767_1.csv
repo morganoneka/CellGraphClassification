@@ -1,0 +1,5 @@
+source,target,weight,type
+CD8+ FoxP3+ PD.L1+ Epithelial+,PD.L1+ CD4+ Epithelial+,-0.972692654004265,Depletion
+CD8+ FoxP3+ PD.L1+ Epithelial+,CD8+ PD.L1+ Epithelial+,-0.636272578425716,Depletion
+CD8+ FoxP3+ PD.L1+ Epithelial+,CD8+ FoxP3+ PD.L1+ Epithelial+,1.69678255512872,Enrichment
+CD8+ PD.L1+ Epithelial+,CD8+ PD.L1+ Epithelial+,0.0875535691384819,Enrichment

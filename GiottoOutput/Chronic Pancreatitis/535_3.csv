@@ -1,0 +1,16 @@
+source,target,weight,type
+Helper T-Cell,Tumor,-1.81667268345165,Depletion
+CTL,Tumor,-1.78370536954583,Depletion
+CTL,Other,-1.69349810872225,Depletion
+APC,Tumor,-1.17993970390849,Depletion
+T-reg,Tumor,-1.15726677857137,Depletion
+Other,T-reg,-0.78813617530011,Depletion
+Helper T-Cell,Other,-0.785910958492692,Depletion
+Other,Tumor,-0.673142270646826,Depletion
+APC,APC,2.30673280477396,Enrichment
+CTL,CTL,1.56481818441394,Enrichment
+Other,Other,1.55459431644193,Enrichment
+Tumor,Tumor,1.09402510927875,Enrichment
+Helper T-Cell,Helper T-Cell,0.858949353553416,Enrichment
+Helper T-Cell,T-reg,0.766496863798361,Enrichment
+CTL,Helper T-Cell,0.643233794847167,Enrichment

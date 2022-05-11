@@ -1,0 +1,10 @@
+source,target,weight,type
+CD4+ APC+,CD4+ Epithelial+,-1.51769563064258,Depletion
+CD4+,CD8+ APC+,-1.37016428054021,Depletion
+CD4+ Epithelial+,CD4+ Tcell+,-1.1583370271671,Depletion
+CD4+,CD4+ Epithelial+,-0.845697328774989,Depletion
+CD4+ Epithelial+,FoxP3+ Treg+ Tcell+,-0.833497336859835,Depletion
+CD4+,CD4+ APC+,-0.635937641066209,Depletion
+CD4+,FoxP3+ Treg+ Epithelial+,-0.342761598304528,Depletion
+CD4+ Epithelial+,CD4+ Epithelial+,2.10380022008173,Enrichment
+CD4+,CD4+,0.0970983288534041,Enrichment

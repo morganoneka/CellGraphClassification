@@ -1,0 +1,8 @@
+source,target,weight,type
+T-reg,Tumor,-2.68481873755322,Depletion
+APC,Tumor,-0.702047177962978,Depletion
+Other,Tumor,-0.608011602684368,Depletion
+APC,APC,1.3868455715687,Enrichment
+Other,Other,0.488389824121784,Enrichment
+Tumor,Tumor,0.421210186006768,Enrichment
+APC,Other,0.180646231899992,Enrichment

@@ -1,0 +1,70 @@
+source,target,weight,type
+CD8+ Epithelial+,CD8+ PD.L1+ Tcell+,-6.60362634498619,Depletion
+CD8+ Epithelial+,FoxP3+ Treg+ Tcell+,-5.99954908734095,Depletion
+CD8+ Epithelial+,PD.L1+ CD4+ Tcell+,-5.79805051476751,Depletion
+CD4+,CD8+ Epithelial+,-5.74302419641048,Depletion
+CD4+ APC+,CD8+ Epithelial+,-5.29853613093256,Depletion
+CD8+ Epithelial+,CD8+ Tcell+,-4.90656996108317,Depletion
+CD8+ Epithelial+,CD8+ PD.L1+ APC+,-4.82883464946806,Depletion
+CD4+ Tcell+,CD8+ Epithelial+,-4.3245487950465,Depletion
+CD4+,CD8+ FoxP3+ Epithelial+,-4.27351588970212,Depletion
+CD8+ Epithelial+,CD8+ PD.L1+,-3.57410150808939,Depletion
+CD4+ Epithelial+,CD8+ PD.L1+ Tcell+,-3.43028527297778,Depletion
+CD4+ APC+,CD8+ FoxP3+ Epithelial+,-3.29572302453997,Depletion
+CD8+,CD8+ Epithelial+,-3.21360650283573,Depletion
+CD4+ Tcell+,CD8+ FoxP3+ Epithelial+,-3.18586654531133,Depletion
+CD8+ APC+,CD8+ Epithelial+,-2.98519680091496,Depletion
+CD8+ Epithelial+,CD8+ FoxP3+ Tcell+,-2.84799690655495,Depletion
+CD4+ Epithelial+,PD.L1+ CD4+ Tcell+,-2.78450398292957,Depletion
+CD8+ Epithelial+,CD8+ FoxP3+ PD.L1+ Tcell+,-2.61823865559545,Depletion
+CD4+ APC+,CD8+ PD.L1+ Epithelial+,-2.53480866123175,Depletion
+CD8+ Epithelial+,FoxP3+ PD.L1+ Treg+ Tcell+,-2.52857131887076,Depletion
+CD8+ APC+,CD8+ PD.L1+ Epithelial+,-2.48438554596958,Depletion
+CD8+ PD.L1+ Epithelial+,CD8+ Tcell+,-2.3533232911629,Depletion
+CD8+ APC+,CD8+ FoxP3+ Epithelial+,-2.26793320524663,Depletion
+CD8+ FoxP3+ Epithelial+,CD8+ PD.L1+ Tcell+,-2.25669287895997,Depletion
+CD8+ Epithelial+,PD.L1+ CD4+ Epithelial+,-2.19907134710183,Depletion
+CD8+ PD.L1+ Epithelial+,FoxP3+ Treg+ Tcell+,-2.15312975889933,Depletion
+CD4+,FoxP3+ PD.L1+ Treg+ Tcell+,-2.09008512923232,Depletion
+CD4+,CD8+ PD.L1+ Epithelial+,-1.94110631094643,Depletion
+CD8+ Epithelial+,PD.L1+ CD4+,-1.88239603368777,Depletion
+CD4+ Epithelial+,CD8+ Tcell+,-1.75559976830526,Depletion
+CD4+,CD8+ PD.L1+ APC+,-1.68407064573408,Depletion
+CD4+ Epithelial+,CD4+ Tcell+,-1.53480866123175,Depletion
+CD8+ APC+,PD.L1+ CD4+ Tcell+,-1.4311772019341,Depletion
+CD4+ Epithelial+,CD8+ APC+,-1.38818953715608,Depletion
+CD4+,CD8+ PD.L1+ Tcell+,-1.23856851754495,Depletion
+CD4+ Tcell+,CD8+ PD.L1+ Epithelial+,-1.13750352374993,Depletion
+CD4+,CD4+ Epithelial+,-0.62760683812965,Depletion
+CD4+,PD.L1+ CD4+ Tcell+,-0.591487938397943,Depletion
+CD4+ Tcell+,CD8+ APC+,-0.568842835357879,Depletion
+CD4+,CD8+ Tcell+,-0.384510363875173,Depletion
+CD8+ PD.L1+ Tcell+,CD8+ PD.L1+ Tcell+,2.68373362998238,Enrichment
+CD8+ Tcell+,CD8+ Tcell+,2.31103977874463,Enrichment
+CD8+ APC+,CD8+ APC+,2.12841068292208,Enrichment
+CD4+ Epithelial+,CD4+ Epithelial+,1.82439400725153,Enrichment
+CD8+ PD.L1+ APC+,CD8+ Tcell+,1.72246602447109,Enrichment
+CD8+ APC+,CD8+ PD.L1+ APC+,1.62901768079909,Enrichment
+CD4+ Tcell+,PD.L1+ CD4+ Tcell+,1.5634827733107,Enrichment
+CD4+ Tcell+,FoxP3+ Treg+ Tcell+,1.49831927279369,Enrichment
+CD8+ Epithelial+,CD8+ Epithelial+,1.47876121464376,Enrichment
+CD8+ PD.L1+ Tcell+,PD.L1+ CD4+ Tcell+,1.45833433328139,Enrichment
+CD4+,CD4+,1.35137099166964,Enrichment
+CD8+ Epithelial+,CD8+ FoxP3+ Epithelial+,1.34363075594268,Enrichment
+CD4+ APC+,CD4+ APC+,1.33867135872194,Enrichment
+CD4+ APC+,CD8+ APC+,1.338294885937,Enrichment
+CD8+,CD8+ PD.L1+ Tcell+,1.24236083756904,Enrichment
+CD4+ Tcell+,CD4+ Tcell+,1.2389841022653,Enrichment
+CD8+ Tcell+,PD.L1+ CD4+ Tcell+,1.23893873021633,Enrichment
+CD8+ PD.L1+ APC+,CD8+ PD.L1+ Tcell+,1.16397573511113,Enrichment
+CD8+ PD.L1+ Tcell+,CD8+ Tcell+,1.16198718201767,Enrichment
+CD8+ Epithelial+,CD8+ PD.L1+ Epithelial+,0.921654613116836,Enrichment
+CD4+,CD8+,0.788893386210067,Enrichment
+CD4+ Epithelial+,CD8+ Epithelial+,0.772894945460519,Enrichment
+CD8+ APC+,FoxP3+ Treg+ Tcell+,0.754707176553473,Enrichment
+CD4+ APC+,FoxP3+ Treg+ Tcell+,0.701024713097092,Enrichment
+CD4+ Tcell+,CD8+ Tcell+,0.699097408575763,Enrichment
+CD4+ Tcell+,CD8+ PD.L1+ Tcell+,0.662197825764234,Enrichment
+CD4+,CD4+ APC+,0.472789155358692,Enrichment
+CD4+ APC+,CD4+ Tcell+,0.301040728413539,Enrichment
+CD4+,CD4+ Tcell+,0.226003674888827,Enrichment

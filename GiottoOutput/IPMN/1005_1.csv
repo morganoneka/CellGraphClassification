@@ -1,0 +1,3 @@
+source,target,weight,type
+CTL,Tumor,-0.62240980426438,Depletion
+Tumor,Tumor,0.00225904569699602,Enrichment

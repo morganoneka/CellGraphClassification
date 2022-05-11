@@ -1,0 +1,7 @@
+source,target,weight,type
+CD4+,FoxP3+ Treg+ Tcell+,-0.375734538583156,Depletion
+CD4+,CD8+ Tcell+,-0.271751622934903,Depletion
+CD4+,CD4+ Tcell+,-0.180873078334639,Depletion
+CD4+,CD4+ APC+,-0.139016047083536,Depletion
+CD4+ Tcell+,CD4+ Tcell+,1.77317533234829,Enrichment
+CD4+,CD4+,0.010413208468727,Enrichment

@@ -1,0 +1,24 @@
+source,target,weight,type
+CD4+,CD8+ PD.L1+ Tcell+,-3.70929063572336,Depletion
+CD4+,PD.L1+ CD4+,-2.33913738491959,Depletion
+CD4+,FoxP3+ PD.L1+ Treg+ Tcell+,-2.29865831556452,Depletion
+CD4+,CD8+ FoxP3+ Tcell+,-1.32414592013718,Depletion
+CD4+,FoxP3+ Treg+ Tcell+,-1.01333463850161,Depletion
+CD4+,CD8+ Tcell+,-0.869835522258227,Depletion
+CD4+,CD8+,-0.61518861388208,Depletion
+CD4+,CD4+ Tcell+,-0.599372837385409,Depletion
+CD4+,CD8+ FoxP3+ APC+,-0.557599461890544,Depletion
+CD4+,CD8+ APC+,-0.534497433738168,Depletion
+CD4+,CD4+ APC+,-0.479984360150125,Depletion
+CD8+,CD8+ Tcell+,2.40462406028864,Enrichment
+CD8+ Tcell+,CD8+ Tcell+,2.00428099732788,Enrichment
+CD4+ Tcell+,FoxP3+ Treg+ Tcell+,1.84738958385986,Enrichment
+CD8+ FoxP3+ Tcell+,CD8+ Tcell+,1.75792521280185,Enrichment
+CD4+ Tcell+,CD8+ Tcell+,1.71140604773559,Enrichment
+CD4+ Tcell+,CD4+ Tcell+,1.69126555016115,Enrichment
+CD4+ APC+,CD4+ APC+,1.67157814302714,Enrichment
+CD4+ Tcell+,CD8+ FoxP3+ Tcell+,1.31451062332488,Enrichment
+CD4+ APC+,CD8+ APC+,1.06711419585854,Enrichment
+CD4+ APC+,CD8+ FoxP3+ Tcell+,0.881355503501381,Enrichment
+CD4+ APC+,CD4+ Tcell+,0.487891130177253,Enrichment
+CD4+,CD4+,0.122489140081203,Enrichment

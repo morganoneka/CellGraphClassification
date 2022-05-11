@@ -1,0 +1,3 @@
+source,target,weight,type
+APC,Tumor,-0.115001525255087,Depletion
+Tumor,Tumor,0.00106555169919164,Enrichment

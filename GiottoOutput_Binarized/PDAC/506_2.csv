@@ -1,0 +1,38 @@
+source,target,weight,type
+CD4+,FoxP3+ Treg+ APC+,-3.53977919169849,Depletion
+CD4+,FoxP3+ PD.L1+ Treg+ Tcell+,-2.41278152533848,Depletion
+CD4+,CD8+ FoxP3+ PD.L1+ Epithelial+,-2.23266075679027,Depletion
+CD4+ Tcell+,PD.L1+ CD4+ Epithelial+,-2.03033607837096,Depletion
+CD4+,PD.L1+ CD4+ Epithelial+,-1.87763519858337,Depletion
+CD4+ Epithelial+,CD8+,-1.56293619439116,Depletion
+CD4+,PD.L1+ CD4+ APC+,-1.50419663119008,Depletion
+CD4+,CD8+ PD.L1+,-1.49825086752783,Depletion
+CD4+,CD8+ PD.L1+ Epithelial+,-1.47735352663456,Depletion
+CD4+,CD4+ Epithelial+,-1.44000237143974,Depletion
+CD4+ Epithelial+,CD4+ Tcell+,-1.40535173131678,Depletion
+CD4+,PD.L1+ CD4+ Tcell+,-1.40508471885264,Depletion
+CD4+,FoxP3+ PD.L1+ Treg+ Epithelial+,-1.27798474729977,Depletion
+CD4+,CD8+ APC+,-1.23143240844797,Depletion
+CD4+,CD8+ FoxP3+ Tcell+,-1.20476675065461,Depletion
+CD4+,FoxP3+ Treg+ Tcell+,-1.19499755706346,Depletion
+CD4+ Epithelial+,FoxP3+ Treg+ Tcell+,-1.16257835264025,Depletion
+CD4+,FoxP3+ Treg+ Epithelial+,-1.06398445592499,Depletion
+CD4+ Epithelial+,CD8+ Tcell+,-1.05797006863733,Depletion
+CD4+,CD8+ PD.L1+ Tcell+,-1,Depletion
+CD4+ APC+,CD4+ Epithelial+,-0.975915460932852,Depletion
+CD4+,CD8+ Tcell+,-0.673423401534572,Depletion
+CD4+,CD4+ APC+,-0.55428278461323,Depletion
+CD4+,CD8+,-0.423258006083812,Depletion
+CD4+,CD4+ Tcell+,-0.328475498973668,Depletion
+CD4+ Epithelial+,CD4+ Epithelial+,3.11895210254427,Enrichment
+CD4+ Tcell+,FoxP3+ Treg+ Tcell+,2.06793882865658,Enrichment
+CD4+ APC+,CD4+ APC+,1.9624013852092,Enrichment
+CD4+ Epithelial+,PD.L1+ CD4+ Epithelial+,1.91480198659452,Enrichment
+CD4+ Tcell+,CD4+ Tcell+,1.62350754438292,Enrichment
+CD4+ Epithelial+,CD8+ PD.L1+ Epithelial+,1.32698132261365,Enrichment
+CD4+ Tcell+,CD8+ Tcell+,1.19681471969135,Enrichment
+CD4+ APC+,FoxP3+ Treg+ Tcell+,1.1456053222469,Enrichment
+CD4+ Tcell+,FoxP3+ Treg+ Epithelial+,1.07949792031437,Enrichment
+CD4+ APC+,CD8+ Tcell+,0.791539493407063,Enrichment
+CD4+ APC+,CD4+ Tcell+,0.43550160183856,Enrichment
+CD4+,CD4+,0.193998545394447,Enrichment

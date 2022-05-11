@@ -1,0 +1,30 @@
+source,target,weight,type
+CD4+ Epithelial+,CD4+ Tcell+,-3.16385649918884,Depletion
+CD4+ Epithelial+,CD8+ Tcell+,-2.87845783722255,Depletion
+CD8+ Tcell+,PD.L1+ CD4+,-2.24792751344359,Depletion
+CD4+,CD8+ PD.L1+ Tcell+,-1.90881290773955,Depletion
+CD8+,FoxP3+ Treg+ Tcell+,-1.65992455840238,Depletion
+CD4+ Epithelial+,CD8+,-1.58014548442338,Depletion
+CD4+,CD8+ PD.L1+ APC+,-1.57288966842058,Depletion
+CD4+,PD.L1+ CD4+ Tcell+,-1.55144765803451,Depletion
+CD4+,CD8+ FoxP3+ Tcell+,-1.44672329783976,Depletion
+CD4+,PD.L1+ CD4+ APC+,-1.39590648085208,Depletion
+CD4+,CD8+ Tcell+,-1.28344423480731,Depletion
+CD4+ Tcell+,CD8+ Epithelial+,-1.25633975325979,Depletion
+CD8+ Tcell+,FoxP3+ Treg+ Epithelial+,-1.08406426478847,Depletion
+CD4+,CD8+,-0.921624139607657,Depletion
+CD8+ Tcell+,FoxP3+ Treg+ Tcell+,-0.86676671057479,Depletion
+CD4+ APC+,CD8+ Tcell+,-0.721456793901156,Depletion
+CD4+,CD4+ Tcell+,-0.620726938136239,Depletion
+CD4+,CD4+ Epithelial+,-0.360550438385561,Depletion
+CD4+,FoxP3+ Treg+ Tcell+,-0.265327778699208,Depletion
+CD4+ Epithelial+,CD4+ Epithelial+,3.80543260992658,Enrichment
+CD8+ Tcell+,CD8+ Tcell+,1.39938939870845,Enrichment
+CD8+,CD8+ Tcell+,1.28658347952222,Enrichment
+CD8+ FoxP3+ Tcell+,CD8+ Tcell+,1.24745527986303,Enrichment
+CD4+ Tcell+,CD4+ Tcell+,0.989241770393132,Enrichment
+CD4+ Tcell+,FoxP3+ Treg+ Tcell+,0.833807717434017,Enrichment
+CD4+ Tcell+,PD.L1+ CD4+ Tcell+,0.646676708837103,Enrichment
+CD4+ APC+,CD4+ Tcell+,0.511142267429485,Enrichment
+CD4+,CD4+,0.507943786507681,Enrichment
+CD4+,FoxP3+ Treg+,0.493093445419307,Enrichment

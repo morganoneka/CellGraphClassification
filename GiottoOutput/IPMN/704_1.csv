@@ -1,0 +1,11 @@
+source,target,weight,type
+CTL,Other,-1.47198223418697,Depletion
+APC,Other,-0.736876387909948,Depletion
+Other,T-reg,-0.630243380022023,Depletion
+Helper T-Cell,Other,-0.599952503361297,Depletion
+CTL,CTL,1.99960479521986,Enrichment
+Helper T-Cell,Helper T-Cell,1.67187056594432,Enrichment
+Helper T-Cell,T-reg,1.61122815541496,Enrichment
+CTL,Helper T-Cell,0.791215219402351,Enrichment
+APC,APC,0.718730354126653,Enrichment
+Other,Other,0.471978860388446,Enrichment
